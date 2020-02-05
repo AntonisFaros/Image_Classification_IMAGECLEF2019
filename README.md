@@ -1,0 +1,2 @@
+# Image_Classification_IMAGECLEF2019
+The [Image CLEF 2019 Concept Detection Task](https://www.imageclef.org/2019/medical/caption/) is a large-scale multi-label classification task aiming to identify medical terms (concepts) in radiology images. Implement a system to classify a medical image based on several abnormalities represented by [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) concept IDs. This reposotory contains an effort to classify those images using Neural Networks
